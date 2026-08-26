@@ -39,9 +39,9 @@ extern "C" {
  * Defines
  ******************************************************************************/
 
-#define ETHOSU_DRIVER_VERSION_MAJOR 1  ///< Driver major version
-#define ETHOSU_DRIVER_VERSION_MINOR 99 ///< Driver minor version
-#define ETHOSU_DRIVER_VERSION_PATCH 0  ///< Driver patch version
+#define ETHOSU_DRIVER_VERSION_MAJOR 2 ///< Driver major version
+#define ETHOSU_DRIVER_VERSION_MINOR 0 ///< Driver minor version
+#define ETHOSU_DRIVER_VERSION_PATCH 0 ///< Driver patch version
 
 #define ETHOSU_SEMAPHORE_WAIT_FOREVER (UINT64_MAX)
 
