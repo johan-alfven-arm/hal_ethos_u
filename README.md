@@ -617,6 +617,14 @@ and add your SSH key under your settings.
 
 ## Security
 
+### Unrestricted NPU memory access
+
+The NPU does not come with any hardware to restrict what memory locations it
+can access. It is up to the user to provide and configure such hardware in the
+system to restrict memory access.
+
+### Report security related issues
+
 Please see [Security](SECURITY.md).
 
 ## Trademark notice
